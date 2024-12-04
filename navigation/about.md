@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Creator of Student 2025
+Welcome to my about page! 
+
+Name: Hope Fune 
+Year: Sophomore 
+Fun Fact: I like Pokemon 
