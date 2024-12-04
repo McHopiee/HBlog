@@ -11,7 +11,7 @@ permalink: /about/
 
 #### Year: Sophomore 
 
-image: /images/abt/goofpikachu.png
+    <img src="./images/abt/goofpikachu.png">
 
 ## Random Facts 
 - Filipina; I'm able to understand most Tagalog but I don't speak it very well...
