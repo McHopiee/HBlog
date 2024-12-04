@@ -5,4 +5,6 @@ description: Home Page
 hide: true
 ---
 
-Hope's CSSE Blog! Yippie!
+## Main 
+
+Hope's CSSE Blog! Thank you for visiting.
