@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Welcome to my about page!**
+<strong>Welcome to my about page!<strong>
 
 Name: Hope Fune 
 
