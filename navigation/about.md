@@ -11,7 +11,8 @@ permalink: /about/
 
 #### Year: Sophomore 
 
-## Random Facts 
+## Random Facts About Me
 - Filipina; I'm able to understand most Tagalog but I don't speak it very well...
 - My childhood game is Pokemon, I constantly bought cards when I was younger. Even now, I'm still a big nerd about it.
 - I play the piano for fun and I play the contrabass in our school String Orchestra!
+- My cat is my joy and happiness.
