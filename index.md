@@ -9,4 +9,4 @@ hide: true
 
 Hope's CSSE Blog! Thank you for visiting.
 
-<img src="./images/abt/goofpikachu.png" alt=pikachu>
+<img src="./images/abt/goofpikachu.png" alt="pikachu" width="200"/>
