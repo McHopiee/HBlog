@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-
 ## Welcome to my about page!
 
 #### Name: Hope Fune 
-
 #### Year: Sophomore 
 
 ## Random Facts About Me
