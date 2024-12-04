@@ -8,3 +8,5 @@ hide: true
 ## Main 
 
 Hope's CSSE Blog! Thank you for visiting.
+
+<img src="./images/abt/goofpikachu.png" alt=pikachu>
