@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Hope Home 
+title: Hope Main
 description: Home Page
 hide: true
 ---
@@ -11,6 +11,11 @@ hide: true
 Hope's CSSE Blog! Thank you for visiting.
 
 <img src="./images/main/goofpikachu.png" alt="pikachu" width="200"/>
+
+
+## Links 
+A straightforward way to find important sites without struggle. Isn't that nice? Having something right in front of you without needing to go through millions of pages trying to find it? You're welcome.
+
 
 ## Extras 
 
