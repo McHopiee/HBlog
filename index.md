@@ -20,9 +20,9 @@ A straightforward way to find important sites without struggle. Isn't that nice?
     <a href="https://github.com/McHopiee/HBlog">
         <img src="https://i.imgur.com/r3xMVpP.png" alt="GitHub" width="100">
 
+
+
 ## Extras 
-
-
 Images (of pikachu) to relate to:
 
 <img src="./images/main/mewhen.jpg" alt="rip" width="100"/>
