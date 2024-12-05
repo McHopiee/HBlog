@@ -26,6 +26,7 @@ A straightforward way to find important sites without struggle. Isn't that nice?
      <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play">
         <img src="https://i.imgur.com/XEHUBF0.png" alt="Play" width="120">
     </a>
+ </div>
 
 <br>
 
