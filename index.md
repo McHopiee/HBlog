@@ -16,12 +16,6 @@ Hope's CSSE Blog! Thank you for visiting.
 ## Links 
 A straightforward way to find important sites without struggle. Isn't that nice? Having something right in front of you without needing to go through millions of pages trying to find it? You're welcome.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/McHopiee/HBlog">
-        <img src="https://i.imgur.com/r3xMVpP.png" alt="GitHub" width="130">
-    </a>
-
-
 
 ## Extras 
 
