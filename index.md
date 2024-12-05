@@ -18,7 +18,13 @@ A straightforward way to find important sites without struggle. Isn't that nice?
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/McHopiee/HBlog">
-        <img src="https://i.imgur.com/USH95yA.png" alt="GitHub">
+        <img src="https://i.imgur.com/USH95yA.png" alt="GitHub" width="120">
+    </a>
+    <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify">
+        <img src="https://i.imgur.com/4R5H6Xd.png" alt="GitHub" width="120">
+    </a>
+     <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play">
+        <img src="https://i.imgur.com/XEHUBF0.png" alt="GitHub" width="120">
     </a>
 
 </div>
