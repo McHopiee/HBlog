@@ -17,8 +17,8 @@ Hope's CSSE Blog! Thank you for visiting.
 A straightforward way to find important sites without struggle. Isn't that nice? Having something right in front of you without needing to go through millions of pages trying to find it? You're welcome.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/jm1021/john_2025">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <a href="https://github.com/McHopiee/HBlog">
+        <img src="https://imgur.com/HRH5hlr" alt="GitHub">
 
 ## Extras 
 
