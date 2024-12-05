@@ -12,6 +12,7 @@ Hope's CSSE Blog! Thank you for visiting.
 
 <img src="./images/main/goofpikachu.png" alt="pikachu" width="200"/>
 
+<br>
 
 
 ## Links 
@@ -28,7 +29,7 @@ A straightforward way to find important sites without struggle. Isn't that nice?
         <img src="https://i.imgur.com/XEHUBF0.png" alt="GitHub" width="120">
     </a>
 
-</div>
+<br>
 
 
 ## Extras 
