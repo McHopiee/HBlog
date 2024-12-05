@@ -38,4 +38,15 @@ Images (of pikachu) to relate to:
 <img src="./images/main/same.jpg" alt="dead" width="100"/>
 <img src="./images/main/pika.jpg" alt="oop" width="100"/>
 <img src="./images/main/wee.jpg" alt="balloons" width="100"/>
+<img src="./images/main/help.jpg" alt="help" width="100"/>
 
+<br>
+
+Favorite Song Link:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://youtu.be/t9mpyRzipww?si=843vQ8eXbxVha7Qc">
+        <img src="https://cdn.vectorstock.com/i/500p/79/92/play-button-icon-vector-46747992.jpg" alt="Fanatstic" width="100">
+    </a>
+
+<br>
