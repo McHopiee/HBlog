@@ -18,13 +18,13 @@ A straightforward way to find important sites without struggle. Isn't that nice?
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/McHopiee/HBlog">
-        <img src="https://i.imgur.com/jESzgMD.png" alt="GitHub" width="150">
+        <img src="https://i.imgur.com/jESzgMD.png" alt="GitHub" width="130">
     </a>
     <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify">
-        <img src="https://i.imgur.com/zTfErrY.png" alt="Verify" width="150">
+        <img src="https://i.imgur.com/zTfErrY.png" alt="Verify" width="130">
     </a>
      <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play">
-        <img src="https://i.imgur.com/gPJvp5X.png" alt="Play" width="150">
+        <img src="https://i.imgur.com/gPJvp5X.png" alt="Play" width="130">
     </a>
  </div>
 
@@ -46,7 +46,7 @@ Favorite Song Link:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://youtu.be/t9mpyRzipww?si=843vQ8eXbxVha7Qc">
-        <img src="https://i.scdn.co/image/ab67616d0000b2738d2e9d799b426e4b55e2ba97" alt="Fanatstic" width="150">
+        <img src="https://i.scdn.co/image/ab67616d0000b2738d2e9d799b426e4b55e2ba97" alt="Fanatstic" width="170">
     </a>
 
 <br>
