@@ -23,8 +23,8 @@ Year: Sophomore
 ## Elliot Image Gallery 
 
 <div class="image-gallery">
-  <img src="/images/about/catbed.jpeg" alt="catbed">
-  <img src="/images/about/catbox.jpeg" alt="catbox">
+  <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed">
+  <img src="https://i.imgur.com/2cL5wU4.jpeg" alt="catbox">
 </div>
 
 ### Favorite Soundtrack - my favorite is 'Fantastic':
