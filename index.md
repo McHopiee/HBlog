@@ -39,5 +39,7 @@ Images (of pikachu) to relate to:
 <img src="./images/main/pika.jpg" alt="oop" width="100"/>
 <img src="./images/main/wee.jpg" alt="balloons" width="100"/>
 <img src="./images/main/help.jpg" alt="help" width="100"/>
+<img src="./images/main/pikachudig.jpg" alt="help" width="100"/>
+<img src="./images/main/pikachus.jpg" alt="help" width="100"/>
 
 <br>
