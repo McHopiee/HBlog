@@ -21,11 +21,10 @@ Year: Sophomore
 
 <br>
 
+<comment>
 ### Elliot Image Gallery 
-
 <comment>
 <div class="image-gallery">
-<comment>
   <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed" width="150">
   <img src="https://i.imgur.com/2cL5wU4.jpeg" alt="catbox" width="150">
   <img src="https://i.imgur.com/J5NvG88.jpeg" alt="catcostume" width="150"> 
