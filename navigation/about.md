@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Welcome to my about page!
+## Welcome to my about page!
 
 Name: Hope Fune 
 
@@ -12,7 +12,7 @@ Year: Sophomore
 
 <br>
 
-## Facts About Me
+### Facts About Me
 - I was originally born in the Philippines, I'm able to understand most Tagalog but I don't speak it very well...
 - My childhood game is Pokemon, I constantly bought cards when I was younger. Even now, I'm still a big nerd about it.
 - I play the piano for fun and I play the contrabass in our school String Orchestra!
@@ -21,7 +21,7 @@ Year: Sophomore
 
 <br>
 
-## Elliot Image Gallery 
+### Elliot Image Gallery 
 
 <div class="image-gallery">
   <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed" width="150">
