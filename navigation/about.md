@@ -36,6 +36,7 @@ Year: Sophomore
 </div>
 
 <br>
+
 ### Favorite Soundtrack - my favorite is 'Fantastic':
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
