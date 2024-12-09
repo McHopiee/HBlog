@@ -7,6 +7,7 @@ permalink: /about/
 ### Welcome to my about page!
 
 Name: Hope Fune 
+
 Year: Sophomore 
 
 <br>
@@ -25,8 +26,13 @@ Year: Sophomore
 <div class="image-gallery">
   <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed" width="150">
   <img src="https://i.imgur.com/2cL5wU4.jpeg" alt="catbox" width="150">
+  <img src="https://i.imgur.com/J5NvG88.jpeg" alt="catcostume" width="150"> 
+  <img src="https://i.imgur.com/gwmgmg9.jpeg" alt="cathappy" width="150">
+  <img src="https://i.imgur.com/w6d8jOa.jpeg" alt="catinbag" width="150">
+  <img src="https://i.imgur.com/F71UPDC.jpeg" alt="hapandels" width="150">
 </div>
 
+<br>
 ### Favorite Soundtrack - my favorite is 'Fantastic':
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
