@@ -41,4 +41,3 @@ Images (of pikachu) to relate to:
 <img src="./images/main/help.jpg" alt="help" width="100"/>
 
 <br>
-
