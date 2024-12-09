@@ -42,11 +42,3 @@ Images (of pikachu) to relate to:
 
 <br>
 
-Favorite Song Link:
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://youtu.be/t9mpyRzipww?si=843vQ8eXbxVha7Qc">
-        <img src="https://i.scdn.co/image/ab67616d0000b2738d2e9d799b426e4b55e2ba97" alt="Fanatstic" width="170">
-    </a>
-
-<br>
