@@ -21,14 +21,18 @@ Year: Sophomore
 
 <br>
 
-### Elliot Image Gallery 
+### Family Images (Mostly my cat)
 <div class="image-gallery">
-  <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed" width="150">
-  <img src="https://i.imgur.com/2cL5wU4.jpeg" alt="catbox" width="150">
-  <img src="https://i.imgur.com/J5NvG88.jpeg" alt="catcostume" width="150"> 
-  <img src="https://i.imgur.com/gwmgmg9.jpeg" alt="cathappy" width="150">
-  <img src="https://i.imgur.com/w6d8jOa.jpeg" alt="catinbag" width="150">
-  <img src="https://i.imgur.com/F71UPDC.jpeg" alt="hapandels" width="150">
+  <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed" width="130">
+  <img src="https://i.imgur.com/2cL5wU4.jpeg" alt="catbox" width="130">
+  <img src="https://i.imgur.com/J5NvG88.jpeg" alt="catcostume" width="130"> 
+  <img src="https://i.imgur.com/gwmgmg9.jpeg" alt="cathappy" width="130">
+  <img src="https://i.imgur.com/w6d8jOa.jpeg" alt="catinbag" width="130">
+  <img src="https://i.imgur.com/F71UPDC.jpeg" alt="hapandels" width="130">
+  <img src="https://i.imgur.com/kHLvmh2.jpeg" alt="goofyhappy" width="130">
+  <img src="https://i.imgur.com/XurdrSp.jpeg" alt="NOO" width="130">
+  <img src="https://i.imgur.com/aVOIKVf.jpeg" alt="ewitsme" width="130">
+  <img src="https://i.imgur.com/sC3apSj.jpeg" alt="mommi" width="130">
 </div>
 
 <br>
