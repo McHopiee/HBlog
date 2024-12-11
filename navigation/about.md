@@ -43,3 +43,9 @@ Year: Sophomore
     </a>
 
 <br>
+
+### Favorite Game(s) 
+I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion. 
+
+<a href="https://www.youtube.com/watch?v=BGtROJeMPeE" class="button-link">
+  <button>League Of Legends</button>
