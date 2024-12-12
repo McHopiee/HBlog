@@ -11,11 +11,11 @@ Name: Hope Fune
 Year: Sophomore 
 
 <h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Facts About Me</h3>
-<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- I was originally born in the Philippines, I'm able to understand most Tagalog but I don't speak it very well...
-- My childhood game is Pokemon, I constantly bought cards when I was younger. Even now, I'm still a big nerd about it.
-- I play the piano for fun and I play the contrabass in our school String Orchestra!
-- At the time of making this, I have one cat, two birds, and fifteen fish. My favorite is my cat, his name is Elliot. 
-- I have 9 siblings, but the only one that's my full sibling is my sister, Happy. Yes my name is Hope and my sisters name is Happy, my father is very good at naming children.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- I was originally born in the Philippines, I'm able to understand most Tagalog but I don't speak it very well...</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- My childhood game is Pokemon, I constantly bought cards when I was younger. Even now, I'm still a big nerd about it.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- I play the piano for fun and I play the contrabass in our school String Orchestra.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- At the time of making this, I have one cat, two birds, and fifteen fish. My favorite is my cat, his name is Elliot.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- I have 9 siblings, but the only one that's my full sibling is my sister, Happy. Yes my name is Hope and my sisters name is Happy, my father is very good at naming children.</p>
 
 <br>
 
