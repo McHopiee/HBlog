@@ -44,6 +44,7 @@ Year: Sophomore
 
 <br>
 
+
 <h2 class="favorite-games">Favorite Games</h2>
 
 I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion. 
