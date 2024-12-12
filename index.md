@@ -31,12 +31,14 @@ hide: true
 
 <p style="font-family: Sour Gummy, sans-serif; font-size: 14px; font-weight: normal;">Images (of pikachu) to relate to:</p>
 
-<img src="./images/main/mewhen.jpg" alt="rip" width="100"/>
-<img src="./images/main/same.jpg" alt="dead" width="100"/>
-<img src="./images/main/pika.jpg" alt="oop" width="100"/>
-<img src="./images/main/wee.jpg" alt="balloons" width="100"/>
-<img src="./images/main/help.jpg" alt="help" width="100"/>
-<img src="./images/main/pikachudig.jpg" alt="pikachundiglett" width="100"/>
-<img src="./images/main/pikachus.jpg" alt="dancingpikachus" width="100"/>
+<div class="image-gallery">
+    <img src="./images/main/mewhen.jpg" alt="rip" width="100"/>
+    <img src="./images/main/same.jpg" alt="dead" width="100"/>
+    <img src="./images/main/pika.jpg" alt="oop" width="100"/>
+    <img src="./images/main/wee.jpg" alt="balloons" width="100"/>
+    <img src="./images/main/help.jpg" alt="help" width="100"/>
+    <img src="./images/main/pikachudig.jpg" alt="pikachundiglett" width="100"/>
+    <img src="./images/main/pikachus.jpg" alt="dancingpikachus" width="100"/>
+</div>
 
 <br>
