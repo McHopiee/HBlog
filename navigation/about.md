@@ -52,10 +52,11 @@ I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, 
 <div class="button">
   <a href="https://www.youtube.com/watch?v=BGtROJeMPeE" class="button-link">
     <button>League Of Legends</button>
-
+  </a>
   <a href="https://www.youtube.com/watch?v=MmB9b5njVbA" class="button-link">
     <button>Minecraft</button>
-
+  </a>
   <a href="https://youtu.be/lcVISRmANIo?si=i3nOnDL6utHy7bR7" class="button-link">
     <button>Overcooked! 2</button>
+  </a>
 </div>
