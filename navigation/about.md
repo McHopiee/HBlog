@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## Welcome to my about page!
+<h3 style="font-family: Fredoka, sans-serif; font-size: 32px;">Welcome To The About Page!</h3>
 
 Name: Hope Fune 
 
 Year: Sophomore 
 
-### Facts About Me
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Facts About Me</h3>
 - I was originally born in the Philippines, I'm able to understand most Tagalog but I don't speak it very well...
 - My childhood game is Pokemon, I constantly bought cards when I was younger. Even now, I'm still a big nerd about it.
 - I play the piano for fun and I play the contrabass in our school String Orchestra!
@@ -19,7 +19,7 @@ Year: Sophomore
 
 <br>
 
-### Family Images (Mostly my cat)
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Family Images, Mostly My Cat</h3>
 <div class="image-gallery">
   <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed" width="130">
   <img src="https://i.imgur.com/2cL5wU4.jpeg" alt="catbox" width="130">
@@ -35,7 +35,7 @@ Year: Sophomore
 
 <br>
 
-### Favorite Soundtrack - my favorite is 'Fantastic':
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Favorite Soundtrack; My fav is 'Fantastic'</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX3KVUsNUmJc2?si=960fddc843de4ac4">
@@ -45,7 +45,7 @@ Year: Sophomore
 
 <br>
 
-<h3 style="font-family: Fredoka, sans-serif; font-size: 24px;">Favorite Games</h3>
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Favorite Games</h3>
 
 I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion. 
 
