@@ -10,16 +10,16 @@ Name: Hope Fune
 
 Year: Sophomore 
 
-<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Facts About Me</h3>
-<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- I was originally born in the Philippines, I'm able to understand most Tagalog but I don't speak it very well...</p>
-<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- My childhood game is Pokemon, I constantly bought cards when I was younger. Even now, I'm still a big nerd about it.</p>
-<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- I play the piano for fun and I play the contrabass in our school String Orchestra.</p>
-<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- At the time of making this, I have one cat, two birds, and fifteen fish. My favorite is my cat, his name is Elliot.</p>
-<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">- I have 9 siblings, but the only one that's my full sibling is my sister, Happy. Yes my name is Hope and my sisters name is Happy, my father is very good at naming children.</p>
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 20px;">Facts About Me</h3>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 14px; font-weight: normal;">- I was originally born in the Philippines, I'm able to understand most Tagalog but I don't speak it very well...</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 14px; font-weight: normal;">- My childhood game is Pokemon, I constantly bought cards when I was younger. Even now, I'm still a big nerd about it.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 14px; font-weight: normal;">- I play the piano for fun and I play the contrabass in our school String Orchestra.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 14px; font-weight: normal;">- At the time of making this, I have one cat, two birds, and fifteen fish. My favorite is my cat, his name is Elliot.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 14px; font-weight: normal;">- I have 9 siblings, but the only one that's my full sibling is my sister, Happy. Yes my name is Hope and my sisters name is Happy, my father is very good at naming children.</p>
 
 <br>
 
-<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Family Images, Mostly My Cat</h3>
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 20px;">Family Images, Mostly My Cat</h3>
 <div class="image-gallery">
   <img src="https://i.imgur.com/tds787u.jpeg" alt="catbed" width="130">
   <img src="https://i.imgur.com/2cL5wU4.jpeg" alt="catbox" width="130">
@@ -35,7 +35,7 @@ Year: Sophomore
 
 <br>
 
-<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Favorite Soundtrack; My fav is 'Fantastic'</h3>
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 20px;">Favorite Soundtrack; My fav is 'Fantastic'</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX3KVUsNUmJc2?si=960fddc843de4ac4">
@@ -45,9 +45,9 @@ Year: Sophomore
 
 <br>
 
-<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Favorite Games</h3>
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 20px;">Favorite Games</h3>
 
-<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion.</p>
+<p style="font-family: Sour Gummy, sans-serif; font-size: 14px; font-weight: normal;">I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion.</p>
 
 <div class="button">
   <a href="https://www.youtube.com/watch?v=BGtROJeMPeE" class="button-link">
