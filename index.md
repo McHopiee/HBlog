@@ -18,10 +18,10 @@ hide: true
 
 <div class="button">
     <a href="https://github.com/McHopiee/HBlog" class="button link">
-        <button>HBlog Github<button>
+        <button>HBlog Github</button>
     </a>
     <a href="https://github.com/McHopiee/HBlog/blob/main/_notebooks/Foundation/B-tools_and_equipment/2023-08-22-devops_tools-verify.ipynb" class="button link">
-        <button>Verify Notebook<button>
+        <button>Verify Notebook</button>
     </a>
 </div>
 
