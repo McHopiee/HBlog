@@ -39,8 +39,9 @@ Year: Sophomore
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX3KVUsNUmJc2?si=960fddc843de4ac4">
-        <img src="https://i.scdn.co/image/ab67616d0000b2738d2e9d799b426e4b55e2ba97" alt="Fanatstic" width="170">
+        <img src="https://i.scdn.co/image/ab67616d0000b2738d2e9d799b426e4b55e2ba97" alt="Fantastic" width="170">
     </a>
+</div>
 
 <br>
 
