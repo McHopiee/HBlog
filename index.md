@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Hope Main
+title: Main
 description: Home Page
 hide: true
 ---
