@@ -44,6 +44,7 @@ Year: Sophomore
 
 <br>
 
+<br>
 
 <h2 class="favorite-games">Favorite Games</h2>
 
