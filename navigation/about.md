@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h3 style="font-family: Fredoka, sans-serif; font-size: 30px;">Welcome To The About Page!</h3>
+<h2 style="font-family: Fredoka, sans-serif; font-size: 28px;">Welcome To The About Page!</h2>
 
 Name: Hope Fune 
 
@@ -47,7 +47,7 @@ Year: Sophomore
 
 <h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Favorite Games</h3>
 
-I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion. 
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion.</p>
 
 <div class="button">
   <a href="https://www.youtube.com/watch?v=BGtROJeMPeE" class="button-link">

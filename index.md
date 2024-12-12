@@ -5,16 +5,16 @@ description: Home Page
 hide: true
 ---
 
-## Main 
+<h3 style="font-family: Fredoka, sans-serif; font-size: 28px;">Main</h3>
 
-Hope's CSSE Blog! Thank you for visiting.
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Hope's CSSE Blog! Thank you for visiting.</h3>
 
 <img src="./images/main/goofpikachu.png" alt="pikachu" width="200"/>
 
 <br>
 
 ## Links 
-A straightforward way to find important sites without struggle. Isn't that nice? Having something right in front of you without needing to go through millions of pages trying to find it? You're welcome.
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">A straightforward way to find important sites without struggle. Isn't that nice? Having something right in front of you without needing to go through millions of pages trying to find it? You're welcome.</p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/McHopiee/HBlog">
