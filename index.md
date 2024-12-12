@@ -5,7 +5,7 @@ description: Home Page
 hide: true
 ---
 
-<h3 style="font-family: Fredoka, sans-serif; font-size: 28px;">Main</h3>
+<h2 style="font-family: Fredoka, sans-serif; font-size: 28px;">Main</h2>
 
 <h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Hope's CSSE Blog! Thank you for visiting.</h3>
 
@@ -13,26 +13,23 @@ hide: true
 
 <br>
 
-## Links 
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Links</h3>
 <p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">A straightforward way to find important sites without struggle. Isn't that nice? Having something right in front of you without needing to go through millions of pages trying to find it? You're welcome.</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://github.com/McHopiee/HBlog">
-        <img src="https://i.imgur.com/jESzgMD.png" alt="GitHub" width="130">
+<div class="button">
+    <a href="https://github.com/McHopiee/HBlog" class="button link">
+        <button>HBlog Github<button>
     </a>
-    <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/tools/verify">
-        <img src="https://i.imgur.com/zTfErrY.png" alt="Verify" width="130">
-    </a>
-     <a href="https://nighthawkcoders.github.io/portfolio_2025/devops/github/pages/play">
-        <img src="https://i.imgur.com/gPJvp5X.png" alt="Play" width="130">
+    <a href="https://github.com/McHopiee/HBlog/blob/main/_notebooks/Foundation/B-tools_and_equipment/2023-08-22-devops_tools-verify.ipynb" class="button link">
+        <button>Verify Notebook<button>
     </a>
  </div>
 
 <br>
 
-## Extras 
+<h3 style="font-family: Lexend Exa, sans-serif; font-size: 24px;">Extras</h3>
 
-Images (of pikachu) to relate to:
+<p style="font-family: Sour Gummy, sans-serif; font-size: 16px; font-weight: normal;">Images (of pikachu) to relate to:</p>
 
 <img src="./images/main/mewhen.jpg" alt="rip" width="100"/>
 <img src="./images/main/same.jpg" alt="dead" width="100"/>
