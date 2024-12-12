@@ -23,6 +23,9 @@ hide: true
     <a href="https://github.com/McHopiee/HBlog/blob/main/_notebooks/Foundation/B-tools_and_equipment/2023-08-22-devops_tools-verify.ipynb" class="button link">
         <button>Verify Notebook</button>
     </a>
+    <a href="https://mchopiee.github.io/HBlog/about/" class="button link">
+        <button>About Page</button>
+    </a>
 </div>
 
 <br>
