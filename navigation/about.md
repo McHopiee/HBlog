@@ -45,7 +45,7 @@ Year: Sophomore
 
 <br>
 
-<h3 style="font-family: Montserrat, sans-serif; font-size: 24px;">Favorite Games</h3>
+<h3 style="font-family: Fredoka, sans-serif; font-size: 24px;">Favorite Games</h3>
 
 I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion. 
 
