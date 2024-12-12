@@ -45,12 +45,11 @@ Year: Sophomore
 
 <br>
 
-<br>
-
 <h3 class="favorite-games">Favorite Games</h3>
 
 I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, I play the extremely popular games. They're pretty good games, in my opinion. 
 
+<div class="button">
 <a href="https://www.youtube.com/watch?v=BGtROJeMPeE" class="button-link">
   <button>League Of Legends</button>
 
@@ -59,3 +58,4 @@ I have a lot of favorite games, it's mostly Pokemon and multiplayer games. Yes, 
 
 <a href="https://youtu.be/lcVISRmANIo?si=i3nOnDL6utHy7bR7" class="button-link">
   <button>Overcooked! 2</button>
+</div>
