@@ -1,0 +1,31 @@
+body {
+    color: #000000;  /* black */
+  }
+  
+  a {
+    color: #6420c9;  /* darkish purple */
+  
+    &:hover {
+      color: #8a61c7;  /* light purple */
+    }
+  }
+  
+  .site-header {
+    background-color: #44046b;  /* darker purple */
+    color: #872cbf;  /* purple */
+  }
+  
+  .site-footer {
+    background-color: #974dc4;  /* bg purple  */
+    color: #b66de3;  /* light purple */
+  }
+  
+  .btn {
+    background-color: #debaf5;  /* Using button background color */
+    color: #6420c9;  /* Using button text color */
+    
+    &:hover {
+      background-color: #8a61c7;  /* Using button hover background color */
+    }
+  }
+  
