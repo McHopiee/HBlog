@@ -135,6 +135,9 @@ permalink: /snake/
         const button_new_game2 = document.getElementById("new_game2");
         const button_setting_menu = document.getElementById("setting_menu");
         const button_setting_menu1 = document.getElementById("setting_menu1");
+        // Food Image 
+        const foodImage = new Image();
+        foodImage.src = "./images/snake/mintmango.png"
         // Game Control
         const BLOCK = 10;   // size of block rendering
         let SCREEN = SCREEN_MENU;
@@ -329,7 +332,7 @@ permalink: /snake/
         /////////////////////////////////////////////////////////////
         let activeDot = function(x, y){
             ctx.fillStyle = "#9df2a0";
-            ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
+            ctx.drawImage(foodImage, x * BLOCK, y * BLOCK, BLOCK, BLOCK);
         }
         /* Random food placement */
         /////////////////////////////////////////////////////////////
