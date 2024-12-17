@@ -137,7 +137,7 @@ permalink: /snake/
         const button_setting_menu1 = document.getElementById("setting_menu1");
         // Food Image 
         const foodImage = new Image();
-        foodImage.src = "./images/snake/mintmango.png"
+        foodImage.src = "images/snake/mintmango.png"
         // Game Control
         const BLOCK = 10;   // size of block rendering
         let SCREEN = SCREEN_MENU;
