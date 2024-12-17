@@ -28,4 +28,4 @@ header_pages:
   - README4YML.md
 
 head:
-- "<link rel='stylesheet' href='_sass\jekyll-theme-cayman.scss'>"
+<link rel='stylesheet' href="_sass\jekyll-theme-cayman.scss">
