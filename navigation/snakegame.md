@@ -17,7 +17,7 @@ permalink: /snake/
         display: none;
         border-style: solid;
         border-width: 10px;
-        border-color:rgb(198, 104, 252);
+        border-color: #FFFFFF;
     }
     canvas:focus{
         outline: none;
@@ -76,21 +76,21 @@ permalink: /snake/
     <div class="container bg-secondary" style="text-align:center;">
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
-            <p>Time to play Snake! Press <span style="background-color: #FFFFFF; color: #000000">space</span> to begin</p>
+            <p>Welcome to Snake, press <span style="background-color: #FFFFFF; color: #000000">space</span> to begin</p>
             <a id="new_game" class="link-alert">new game</a>
             <a id="setting_menu" class="link-alert">settings</a>
         </div>
         <!-- Game Over -->
         <div id="gameover" class="py-4 text-light">
-            <p>Game Over, Get Better. Press <span style="background-color: #FFFFFF; color: #000000">space</span> to try again</p>
+            <p>Game Over, press <span style="background-color: #FFFFFF; color: #000000">space</span> to try again</p>
             <a id="new_game1" class="link-alert">new game</a>
             <a id="setting_menu1" class="link-alert">settings</a>
         </div>
         <!-- Play Screen -->
-        <canvas id="snake" class="wrap" width="550" height="550" tabindex="1"></canvas>
+        <canvas id="snake" class="wrap" width="320" height="320" tabindex="1"></canvas>
         <!-- Settings Screen -->
         <div id="setting" class="py-4 text-light">
-            <p>Settings Screen, press <span style="background-color:rgb(253, 188, 248); color: #000000">space</span> to go back to playing</p>
+            <p>Settings Screen, press <span style="background-color: #FFFFFF; color: #000000">space</span> to go back to playing</p>
             <a id="new_game2" class="link-alert">new game</a>
             <br>
             <p>Speed:
@@ -135,9 +135,9 @@ permalink: /snake/
         const button_new_game2 = document.getElementById("new_game2");
         const button_setting_menu = document.getElementById("setting_menu");
         const button_setting_menu1 = document.getElementById("setting_menu1");
-        // Food Image 
-        const foodImage = new Image();
-        foodImage.src = "images/snake/mintmango.png"
+        // food image 
+        let foodImage = new Image();
+        foodImage.src = 'https://i.imgur.com/Gs2O7Py.png';  // should be img of berry 
         // Game Control
         const BLOCK = 10;   // size of block rendering
         let SCREEN = SCREEN_MENU;
@@ -271,7 +271,7 @@ permalink: /snake/
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "#d9fcda";
+            ctx.fillStyle = "royalblue";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
@@ -331,17 +331,22 @@ permalink: /snake/
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
         let activeDot = function(x, y){
-            ctx.fillStyle = "#9df2a0";
             ctx.drawImage(foodImage, x * BLOCK, y * BLOCK, BLOCK, BLOCK);
+             } else {
+        // If the image isn't loaded yet, you can fallback to drawing a block
+            ctx.fillStyle = "#FFFFFF";
+            ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
+             }
         }
         /* Random food placement */
         /////////////////////////////////////////////////////////////
         let addFood = function(){
             food.x = Math.floor(Math.random() * ((canvas.width / BLOCK) - 1));
             food.y = Math.floor(Math.random() * ((canvas.height / BLOCK) - 1));
+        // Check if the food overlaps with the snake's body, if so regenerate it
             for(let i = 0; i < snake.length; i++){
                 if(checkBlock(food.x, food.y, snake[i].x, snake[i].y)){
-                    addFood();
+                    addFood(); // Recursively call until the food is not overlapping
                 }
             }
         }
