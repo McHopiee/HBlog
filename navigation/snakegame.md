@@ -146,10 +146,20 @@ permalink: /snake/
             "../images/snake/tomato.png"
         ];
         let currentFruitImage = new Image();
+        //snake images 
+        //const snakeBlockImages = [
+            //"../images/snake/bulbasaur.png",
+            //"../images/snake/charmander (4).png",
+            //"../images/snake/squirtle.png",
+            //"../images/snake/chikorita.png",
+            //"..images/snake/cyndaquil.png",
+            //"..images/snake/totodile.png",
+            //"..images/snake/son.png",
+        //];
         // Game Control
         const BLOCK = 40;   // size of block rendering
         let SCREEN = SCREEN_MENU;
-        let snake;
+        let snake = [];
         let snake_dir;
         let sprite_dir; 
         let snake_next_dir;
@@ -283,7 +293,7 @@ permalink: /snake/
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "lightgreen";
+            ctx.fillStyle = "#d0e8cc" ;
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
