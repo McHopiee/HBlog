@@ -87,7 +87,7 @@ permalink: /snake/
             <a id="setting_menu1" class="link-alert">settings</a>
         </div>
         <!-- Play Screen -->
-        <canvas id="snake" class="wrap" width="540" height="540" tabindex="1"></canvas>
+        <canvas id="snake" class="wrap" width="760" height="760" tabindex="1"></canvas>
         <!-- Settings Screen -->
         <div id="setting" class="py-4 text-light">
             <p>Settings Screen, press <span style="background-color: #FFFFFF; color: #000000">space</span> to go back to playing</p>
@@ -135,8 +135,19 @@ permalink: /snake/
         const button_new_game2 = document.getElementById("new_game2");
         const button_setting_menu = document.getElementById("setting_menu");
         const button_setting_menu1 = document.getElementById("setting_menu1");
+        //fruit images 
+        const fruitImages = [
+            "../images/snake/blukberry.png",
+            "../images/snake/haban.png",
+            "../images/snake/payapa.png",
+            "../images/snake/pinap.png",
+            "../images/snake/pink.png",
+            "../images/snake/sitrus.png",
+            "../images/snake/tomato.png"
+        ];
+        let currentFruitImage = new Image();
         // Game Control
-        const BLOCK = 30;   // size of block rendering
+        const BLOCK = 40;   // size of block rendering
         let SCREEN = SCREEN_MENU;
         let snake;
         let snake_dir;
@@ -146,9 +157,6 @@ permalink: /snake/
         let food = {x: 0, y: 0};
         let score;
         let wall;
-        // food drawing 
-        let foodImage = new Image();
-        foodImage.src = "../images/snake/tomato.png"; 
         // snake image
         let snakeImage = new Image();
         // snakeImage.src = 'https://www.pngkit.com/png/full/357-3570355_pixel-people-gengar-sprite.png'; 
@@ -338,10 +346,20 @@ permalink: /snake/
         let activeDot = function(x, y, isFood = false) {
             if (isFood) {
             // Render the food as an image
-            ctx.drawImage(foodImage, x * BLOCK, y * BLOCK, BLOCK, BLOCK);
+            ctx.drawImage(currentFruitImage, x * BLOCK, y * BLOCK, BLOCK, BLOCK);
         }else{
-            // Render the snake as colored blocks
-            ctx.drawImage(snakeImage, x * BLOCK, y * BLOCK, BLOCK, BLOCK);
+            ctx.save(); //saves canvas
+            ctx.translate(x * BLOCK, y * BLOCK);
+
+            if(snake_dir === 1) {
+                ctx.translate(BLOCK, 0);
+                 ctx.scale(-1, 1);
+            }
+
+            //there are no png adjustments for the three other ways, the only difference to be made is the png flipping horizontally when facing right 
+
+            ctx.drawImage(snakeImage, 0, 0, BLOCK, BLOCK); //draws the image of the snake 
+            ctx.restore(); //restore the state of the canvas
         }
     };
 
@@ -355,7 +373,10 @@ permalink: /snake/
                     addFood();
                 }
             }
-        }
+            //randomizes fruit image
+            const randomIndex = Math.floor(Math.random() * fruitImages.length);
+            currentFruitImage.src = fruitImages[randomIndex];
+    };
         /* Collision Detection */
         /////////////////////////////////////////////////////////////
         let checkBlock = function(x, y, _x, _y){
