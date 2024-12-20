@@ -159,7 +159,6 @@ permalink: /snake/
         let wall;
         // snake image
         let snakeImage = new Image();
-        // snakeImage.src = 'https://www.pngkit.com/png/full/357-3570355_pixel-people-gengar-sprite.png'; 
         snakeImage.src = "../images/snake/son.png";
         /* Display Control */
         /////////////////////////////////////////////////////////////
