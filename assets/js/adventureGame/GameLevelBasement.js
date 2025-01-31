@@ -14,7 +14,7 @@ class GameLevelDesert {
 
 
     // Background data
-    const image_src_Basement = path + "images/gamify/basement.jpg"; // be sure to include the path
+    const image_src_Basement = path + "images/gamify/basement.png"; // be sure to include the path
     const image_data_Basement = {
         name: 'basement',
         greeting: "Welcome to the basement. You need to get out of here as fast as you can .. you're starting to hallucinate."
@@ -23,17 +23,17 @@ class GameLevelDesert {
     };
 
 
-    // Player data for Chillguy
-    const sprite_src_degen = path + "/images/gamify/chillguy.png"; // be sure to include the path
-    const CHILLGUY_SCALE_FACTOR = 5;
-    const sprite_data_chillguy = {
-        id: 'Chill Guy',
-        greeting: "Hi I am Chill Guy, the desert wanderer. I am looking for wisdome and adventure!",
-        src: sprite_src_chillguy,
-        SCALE_FACTOR: CHILLGUY_SCALE_FACTOR,
+    // Player data for DeGen
+    const sprite_src_degen = path + "images/gamify/degeen.png"; // be sure to include the path
+    const DEGEN_SCALE_FACTOR = 5;
+    const sprite_data_degen = {
+        id: 'DeGen',
+        greeting: "Woah where am I.. how did I get here? A lot of people call me a 'degen'.. so I guess that's my name.",
+        src: sprite_src_degen,
+        SCALE_FACTOR: DEGEN_SCALE_FACTOR,
         STEP_FACTOR: 1000,
         ANIMATION_RATE: 50,
-        INIT_POSITION: { x: 0, y: height - (height/CHILLGUY_SCALE_FACTOR) }, 
+        INIT_POSITION: { x: 0, y: height - (height/DEGEN_SCALE_FACTOR) }, 
         pixels: {height: 384, width: 512},
         orientation: {rows: 3, columns: 4 },
         down: {row: 0, start: 0, columns: 3 },
@@ -45,7 +45,7 @@ class GameLevelDesert {
     };
 
 
-    // NPC data for Tux 
+    // NPC data for Hatsune Chan  
     const sprite_src_tux = path + "/images/gamify/tux.png"; // be sure to include the path
     const sprite_data_tux = {
         id: 'Tux',
