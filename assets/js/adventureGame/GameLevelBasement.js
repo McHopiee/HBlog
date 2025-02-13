@@ -14,17 +14,17 @@ class GameLevelDesert {
 
 
     // Background data
-    const image_src_Basement = path + "images/gamify/basement.png"; // be sure to include the path
+    const image_src_Basement = path + "/images/gamify/basement.png"; // be sure to include the path
     const image_data_Basement = {
         name: 'basement',
-        greeting: "Welcome to the basement. You need to get out of here as fast as you can .. you're starting to hallucinate."
+        greeting: "Welcome to the basement. You need to get out of here as fast as you can .. you're starting to hallucinate.",
         src: image_src_Basement,
         pixels: {height: 675, width: 1200}
     };
 
 
     // Player data for DeGen
-    const sprite_src_degen = path + "images/gamify/degeen.png"; // be sure to include the path
+    const sprite_src_degen = path + "/images/gamify/degen.png"; // be sure to include the path
     const DEGEN_SCALE_FACTOR = 5;
     const sprite_data_degen = {
         id: 'DeGen',
@@ -34,7 +34,7 @@ class GameLevelDesert {
         STEP_FACTOR: 1000,
         ANIMATION_RATE: 50,
         INIT_POSITION: { x: 0, y: height - (height/DEGEN_SCALE_FACTOR) }, 
-        pixels: {height: 384, width: 512},
+        pixels: {height: 136, width: 102},
         orientation: {rows: 3, columns: 4 },
         down: {row: 0, start: 0, columns: 3 },
         left: {row: 2, start: 0, columns: 3 },
@@ -46,23 +46,23 @@ class GameLevelDesert {
 
 
     // NPC data for Hatsune Chan  
-    const sprite_src_tux = path + "/images/gamify/tux.png"; // be sure to include the path
-    const sprite_data_tux = {
-        id: 'Tux',
-        greeting: "Hi I am Tux, the Linux mascot.  I am very happy to spend some linux shell time with you!",
-        src: sprite_src_tux,
+    const sprite_src_hatsune = path + "/images/gamify/miku.png"; // be sure to include the path
+    const sprite_data_hatsune = {
+        id: 'Hatsune Chan',
+        greeting: "HI I'M HATSUNE CHAN UWU!! I'M SO HAPPY TO HAVE A NEW FRIEND DOWN HERE WITH US!! :3",
+        src: sprite_src_hatsune,
         SCALE_FACTOR: 8,  // Adjust this based on your scaling needs
         ANIMATION_RATE: 50,
-        pixels: {height: 256, width: 352},
+        pixels: {height: 316, width: 189},
         INIT_POSITION: { x: (width / 2), y: (height / 2)},
-        orientation: {rows: 8, columns: 11 },
-        down: {row: 5, start: 0, columns: 3 },  // This is the stationary npc, down is default 
+        orientation: {rows: 3, columns: 4 },
+        down: {row: 0, start: 0, columns: 2 },  // This is the stationary npc, down is default 
         hitbox: { widthPercentage: 0.1, heightPercentage: 0.2 },
-        // Linux command quiz
+        // Hatsune Chan interaction 
         quiz: { 
-          title: "Linux Command Quiz",
+          title: "For some reason you have options as responses?",
           questions: [
-            "Which command is used to list files in a directory?\n1. ls\n2. dir\n3. list\n4. show",
+            "HOW LONG HAVE YOU BEEN DOWN HERE SENPAI!?\n1. What..?\n2. A while.\n3. You don't have to talk like that..\n4. I'VE BEEN HERE FOR FOREVER UWU!!",
             "Which command is used to change directories?\n1. cd\n2. chdir\n3. changedir\n4. changedirectory",
             "Which command is used to create a new directory?\n1. mkdir\n2. newdir\n3. createdir\n4. makedir",
             "Which command is used to remove a file?\n1. rm\n2. remove\n3. delete\n4. erase",
@@ -77,19 +77,18 @@ class GameLevelDesert {
       };
 
 
-
-      // NPC data for Octocat
-      const sprite_src_octocat = path + "/images/gamify/octocat.png"; // be sure to include the path
-      const sprite_data_octocat = {
-        id: 'Octocat',
-        greeting: "Hi I am Octocat! I am the GitHub code code code collaboration mascot",
-        src: sprite_src_octocat,
+      // NPC data for Asaka Chan
+      const sprite_src_asaka = path + "images/gamify/asaka.png"; // be sure to include the path
+      const sprite_data_asaka = {
+        id: 'Asaka Chan',
+        greeting: "I-I'm Asaka Chan, I guess.. it's not like I'm happy that you're down here or anything!!",
+        src: sprite_src_asaka,
         SCALE_FACTOR: 10,  // Adjust this based on your scaling needs
         ANIMATION_RATE: 50,
-        pixels: {height: 301, width: 801},
+        pixels: {height: 316, width: 189},
         INIT_POSITION: { x: (width / 4), y: (height / 4)},
-        orientation: {rows: 1, columns: 4 },
-        down: {row: 0, start: 0, columns: 3 },  // This is the stationary npc, down is default 
+        orientation: {rows: 3, columns: 4 },
+        down: {row: 0, start: 0, columns: 2 },  // This is the stationary npc, down is default 
         hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
         // GitHub command quiz 
         quiz: { 
@@ -110,17 +109,17 @@ class GameLevelDesert {
     }
   
 
-    const sprite_src_robot = path + "/images/gamify/robot.png"; // be sure to include the path
-    const sprite_data_robot = {
-        id: 'Robot',
-        greeting: "Hi I am Robot, the Jupyter Notebook mascot.  I am very happy to spend some linux shell time with you!",
-        src: sprite_src_robot,
+    const sprite_src_nez = path + "/images/gamify/nezuko.png"; // be sure to include the path
+    const sprite_data_nez = {
+        id: 'Nezukoo Chan',
+        greeting: "Hello.",
+        src: sprite_src_nez,
         SCALE_FACTOR: 10,  // Adjust this based on your scaling needs
         ANIMATION_RATE: 100,
-        pixels: {height: 316, width: 627},
+        pixels: {height: 316, width: 189},
         INIT_POSITION: { x: (width * 3 / 4), y: (height * 3 / 4)},
-        orientation: {rows: 3, columns: 6 },
-        down: {row: 1, start: 0, columns: 6 },  // This is the stationary npc, down is default 
+        orientation: {rows: 3, columns: 4 },
+        down: {row: 0, start: 0, columns: 2 },  // This is the stationary npc, down is default 
         hitbox: { widthPercentage: 0.1, heightPercentage: 0.2 },
         // Linux command quiz
         quiz: { 
@@ -173,11 +172,11 @@ const sprite_data_htmlhank = {
 
     // List of objects defnitions for this level
     this.objects = [
-      { class: Background, data: image_data_desert },
-      { class: Player, data: sprite_data_chillguy },
-      { class: Npc, data: sprite_data_tux },
-      { class: Npc, data: sprite_data_octocat },
-      { class: Npc, data: sprite_data_robot },
+      { class: Background, data: image_data_Basement },
+      { class: Player, data: sprite_data_degen },
+      { class: Npc, data: sprite_data_hatsune },
+      { class: Npc, data: sprite_data_asaka },
+      { class: Npc, data: sprite_data_mort },
      // { class: Npc, data: sprite_data_htmlhank }, 
     ];
   }
