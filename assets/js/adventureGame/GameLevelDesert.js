@@ -10,7 +10,7 @@ class GameLevelDesert {
     const footer = document.querySelector('footer');
     // Values dependent on GameEnv.create()
     let width = GameEnv.innerWidth;
-    let height = GameEnv.innerHeight;
+    let height = 2000;
 
 
     // Background data

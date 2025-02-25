@@ -5,8 +5,8 @@ github_username: McHopiee
 github_repo: "HBlog" 
 # baseurl: "/Hblog"
 future: true
-remote_theme: jekyll/minimal
-minima:
+remote_theme: jekyll/cayman
+cayman:
   skin: darklight
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
@@ -14,9 +14,9 @@ minima:
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 
 # remote_theme: pages-themes/midnight@v0.2.0
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
 # remote_theme: pages-themes/modernist@v0.2.0
 
